@@ -30,7 +30,7 @@ patterns.
 
 1. Clone the repository:
 
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/nevitasharon/Smart-Expense-Tracker.git
 
 2. Navigate into the project:
 
